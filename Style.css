@@ -3,13 +3,13 @@
 }
 .jumbotron {
   padding-top: 6rem;
-  background-color: #4649f9;
+  background-color: #e2edff;
 }
 
 .about .content h3 {
   font-weight: 700;
   font-size: 30px;
-  color: #4649f9;
+  color: #e2edff;
 }
 
 .about .content p:last-child {
@@ -17,7 +17,7 @@
 }
 
 #project {
-  background-color: #4649f9;
+  background-color: #e2edff;
 }
 
 section {
